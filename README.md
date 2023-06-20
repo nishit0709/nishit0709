@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishit0709
+- 👋 Hi, I’m Nishit
 - 👀 I’m interested in Linux, blockchain development and cybersecurity
 - 🌱 I’m currently learning AWS Cloud dev
 - 💞️ I’m looking to collaborate on anything
